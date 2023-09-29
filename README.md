@@ -1,5 +1,7 @@
 # cups
 
+This repository contains configuration file for oc.cupsd abcdesktop image
+
 ## To get more informations
 
 Please, read the public documentation web site:
